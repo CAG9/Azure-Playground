@@ -1,4 +1,4 @@
 # Azure Playground
 
-#Tools and tech
+## Tools and tech
 - Azure
